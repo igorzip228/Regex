@@ -29,7 +29,3 @@ import java.util.regex.Pattern;
 
         }
     }
-
-    //в идее
-// 2
-
