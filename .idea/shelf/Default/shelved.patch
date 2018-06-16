@@ -1,0 +1,150 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"91d92014-bde1-4631-810e-996d28e8e7e2\" name=\"Default\" comment=\"\" />\n    <ignored path=\"$PROJECT_DIR$/out/\" />\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\n    <option name=\"TRACKING_ENABLED\" value=\"true\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileEditorManager\">\n    <leaf>\n      <file leaf-file-name=\"Regex.java\" pinned=\"false\" current-in-tab=\"true\">\n        <entry file=\"file://$PROJECT_DIR$/src/Regex.java\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"308\">\n              <caret line=\"19\" column=\"34\" selection-start-line=\"19\" selection-start-column=\"34\" selection-end-line=\"19\" selection-end-column=\"34\" />\n              <folding>\n                <element signature=\"imports\" expanded=\"true\" />\n              </folding>\n            </state>\n          </provider>\n        </entry>\n      </file>\n    </leaf>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"IdeDocumentHistory\">\n    <option name=\"CHANGED_PATHS\">\n      <list>\n        <option value=\"$PROJECT_DIR$/src/Regex.java\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"ProjectFrameBounds\" extendedState=\"6\">\n    <option name=\"x\" value=\"465\" />\n    <option name=\"y\" value=\"230\" />\n    <option name=\"width\" value=\"1360\" />\n    <option name=\"height\" value=\"570\" />\n  </component>\n  <component name=\"ProjectView\">\n    <navigator proportions=\"\" version=\"1\">\n      <foldersAlwaysOnTop value=\"true\" />\n    </navigator>\n    <panes>\n      <pane id=\"Scope\" />\n      <pane id=\"ProjectPane\">\n        <subPane>\n          <expand>\n            <path>\n              <item name=\"Regex from Hillel\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"Regex from Hillel\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"Regex from Hillel\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"Regex from Hillel\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\".idea\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"Regex from Hillel\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"Regex from Hillel\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n          </expand>\n          <select />\n        </subPane>\n      </pane>\n      <pane id=\"PackagesPane\" />\n      <pane id=\"AndroidView\" />\n    </panes>\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"project.structure.last.edited\" value=\"Modules\" />\n    <property name=\"project.structure.proportion\" value=\"0.0\" />\n    <property name=\"project.structure.side.proportion\" value=\"0.0\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"configurable.group.appearance\" />\n  </component>\n  <component name=\"RunDashboard\">\n    <option name=\"ruleStates\">\n      <list>\n        <RuleState>\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\n        </RuleState>\n        <RuleState>\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\n        </RuleState>\n      </list>\n    </option>\n  </component>\n  <component name=\"RunManager\">\n    <configuration default=\"true\" type=\"Application\" factoryName=\"Application\">\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n    </configuration>\n    <configuration default=\"true\" type=\"JUnit\" factoryName=\"JUnit\">\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <option name=\"PACKAGE_NAME\" />\n      <option name=\"MAIN_CLASS_NAME\" />\n      <option name=\"METHOD_NAME\" />\n      <option name=\"TEST_OBJECT\" value=\"class\" />\n      <option name=\"VM_PARAMETERS\" value=\"-ea\" />\n      <option name=\"PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"%MODULE_WORKING_DIR%\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\n      <option name=\"TEST_SEARCH_SCOPE\">\n        <value defaultName=\"singleModule\" />\n      </option>\n      <patterns />\n    </configuration>\n    <configuration default=\"true\" type=\"TestNG\" factoryName=\"TestNG\">\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <option name=\"SUITE_NAME\" />\n      <option name=\"PACKAGE_NAME\" />\n      <option name=\"MAIN_CLASS_NAME\" />\n      <option name=\"METHOD_NAME\" />\n      <option name=\"GROUP_NAME\" />\n      <option name=\"TEST_OBJECT\" value=\"CLASS\" />\n      <option name=\"VM_PARAMETERS\" value=\"-ea\" />\n      <option name=\"PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"%MODULE_WORKING_DIR%\" />\n      <option name=\"OUTPUT_DIRECTORY\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\n      <option name=\"TEST_SEARCH_SCOPE\">\n        <value defaultName=\"singleModule\" />\n      </option>\n      <option name=\"USE_DEFAULT_REPORTERS\" value=\"false\" />\n      <option name=\"PROPERTIES_FILE\" />\n      <properties />\n      <listeners />\n    </configuration>\n  </component>\n  <component name=\"SvnConfiguration\">\n    <configuration />\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"91d92014-bde1-4631-810e-996d28e8e7e2\" name=\"Default\" comment=\"\" />\n      <created>1529153895575</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1529153895575</updated>\n    </task>\n    <servers />\n  </component>\n  <component name=\"ToolWindowManager\">\n    <frame x=\"-7\" y=\"-7\" width=\"1550\" height=\"838\" extended-state=\"6\" />\n    <layout>\n      <window_info anchor=\"right\" id=\"Palette\" />\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"6\" />\n      <window_info anchor=\"right\" id=\"Palette&#9;\" />\n      <window_info id=\"Image Layers\" />\n      <window_info anchor=\"right\" id=\"Capture Analysis\" />\n      <window_info anchor=\"bottom\" id=\"Event Log\" side_tool=\"true\" />\n      <window_info anchor=\"right\" id=\"Maven Projects\" />\n      <window_info anchor=\"bottom\" id=\"Run\" order=\"2\" />\n      <window_info anchor=\"bottom\" id=\"Version Control\" show_stripe_button=\"false\" />\n      <window_info anchor=\"bottom\" id=\"Terminal\" />\n      <window_info id=\"Capture Tool\" />\n      <window_info id=\"Designer\" />\n      <window_info active=\"true\" content_ui=\"combo\" id=\"Project\" order=\"0\" visible=\"true\" weight=\"0.24966443\" />\n      <window_info id=\"Structure\" order=\"1\" side_tool=\"true\" weight=\"0.25\" />\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"1\" weight=\"0.25\" />\n      <window_info id=\"UI Designer\" />\n      <window_info anchor=\"right\" id=\"Theme Preview\" />\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"3\" weight=\"0.4\" />\n      <window_info id=\"Favorites\" side_tool=\"true\" />\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"1\" />\n      <window_info anchor=\"right\" id=\"Commander\" order=\"0\" weight=\"0.4\" />\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"5\" weight=\"0.4\" />\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"2\" weight=\"0.25\" />\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"0\" />\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"4\" weight=\"0.25\" />\n    </layout>\n  </component>\n  <component name=\"VcsContentAnnotationSettings\">\n    <option name=\"myLimit\" value=\"2678400000\" />\n  </component>\n  <component name=\"editorHistoryManager\">\n    <entry file=\"file://$PROJECT_DIR$/src/Regex.java\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"308\">\n          <caret line=\"19\" column=\"34\" selection-start-line=\"19\" selection-start-column=\"34\" selection-end-line=\"19\" selection-end-column=\"34\" />\n          <folding>\n            <element signature=\"imports\" expanded=\"true\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n  </component>\n  <component name=\"masterDetails\">\n    <states>\n      <state key=\"ArtifactsStructureConfigurable.UI\">\n        <settings>\n          <artifact-editor />\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"FacetStructureConfigurable.UI\">\n        <settings>\n          <last-edited>No facets are configured</last-edited>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"GlobalLibrariesConfigurable.UI\">\n        <settings>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"JdkListConfigurable.UI\">\n        <settings>\n          <last-edited>9.0</last-edited>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"ModuleStructureConfigurable.UI\">\n        <settings>\n          <last-edited>Regex from Hillel</last-edited>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n                <option value=\"0.6\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"ProjectJDKs.UI\">\n        <settings>\n          <last-edited>9.0</last-edited>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"ProjectLibrariesConfigurable.UI\">\n        <settings>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n    </states>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 7fe47372a87d3f9ce5459ccb4efed487d4600891)
++++ .idea/workspace.xml	(date 1529155214316)
+@@ -1,7 +1,10 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="91d92014-bde1-4631-810e-996d28e8e7e2" name="Default" comment="" />
++    <list default="true" id="91d92014-bde1-4631-810e-996d28e8e7e2" name="Default" comment="">
++      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <ignored path="$PROJECT_DIR$/out/" />
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+     <option name="TRACKING_ENABLED" value="true" />
+@@ -11,12 +14,12 @@
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+   <component name="FileEditorManager">
+-    <leaf>
++    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+       <file leaf-file-name="Regex.java" pinned="false" current-in-tab="true">
+         <entry file="file://$PROJECT_DIR$/src/Regex.java">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="308">
+-              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
++            <state relative-caret-position="153">
++              <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+               <folding>
+                 <element signature="imports" expanded="true" />
+               </folding>
+@@ -32,6 +35,9 @@
+         <option value="Class" />
+       </list>
+     </option>
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="IdeDocumentHistory">
+     <option name="CHANGED_PATHS">
+@@ -46,12 +52,13 @@
+     <option name="width" value="1360" />
+     <option name="height" value="570" />
+   </component>
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectView">
+     <navigator proportions="" version="1">
+       <foldersAlwaysOnTop value="true" />
+     </navigator>
+     <panes>
+-      <pane id="Scope" />
++      <pane id="PackagesPane" />
+       <pane id="ProjectPane">
+         <subPane>
+           <expand>
+@@ -73,15 +80,16 @@
+           <select />
+         </subPane>
+       </pane>
+-      <pane id="PackagesPane" />
++      <pane id="Scope" />
+       <pane id="AndroidView" />
+     </panes>
+   </component>
+   <component name="PropertiesComponent">
++    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+     <property name="project.structure.last.edited" value="Modules" />
+     <property name="project.structure.proportion" value="0.0" />
+     <property name="project.structure.side.proportion" value="0.0" />
+-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
++    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+   </component>
+   <component name="RunDashboard">
+     <option name="ruleStates">
+@@ -154,31 +162,31 @@
+   <component name="ToolWindowManager">
+     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+     <layout>
+-      <window_info anchor="right" id="Palette" />
++      <window_info anchor="right" id="Palette" order="3" />
+       <window_info anchor="bottom" id="TODO" order="6" />
+-      <window_info anchor="right" id="Palette&#9;" />
+-      <window_info id="Image Layers" />
+-      <window_info anchor="right" id="Capture Analysis" />
+-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+-      <window_info anchor="right" id="Maven Projects" />
++      <window_info anchor="right" id="Palette&#9;" order="3" />
++      <window_info id="Image Layers" order="2" />
++      <window_info anchor="right" id="Capture Analysis" order="3" />
++      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
++      <window_info anchor="right" id="Maven Projects" order="3" />
++      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3298969" />
+       <window_info anchor="bottom" id="Run" order="2" />
+-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+-      <window_info anchor="bottom" id="Terminal" />
+-      <window_info id="Capture Tool" />
+-      <window_info id="Designer" />
+-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
++      <window_info anchor="bottom" id="Terminal" order="7" />
++      <window_info id="Capture Tool" order="2" />
++      <window_info id="Designer" order="2" />
++      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12550336" />
+       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+-      <window_info id="UI Designer" />
+-      <window_info anchor="right" id="Theme Preview" />
++      <window_info id="UI Designer" order="2" />
++      <window_info anchor="right" id="Theme Preview" order="3" />
++      <window_info id="Favorites" order="2" side_tool="true" />
+       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+-      <window_info id="Favorites" side_tool="true" />
+-      <window_info anchor="bottom" id="Find" order="1" />
++      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
++      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+       <window_info anchor="bottom" id="Message" order="0" />
+       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
++      <window_info anchor="bottom" id="Find" order="1" />
+     </layout>
+   </component>
+   <component name="VcsContentAnnotationSettings">
+@@ -187,8 +195,18 @@
+   <component name="editorHistoryManager">
+     <entry file="file://$PROJECT_DIR$/src/Regex.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="308">
++        <state relative-caret-position="323">
+           <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
++          <folding>
++            <element signature="imports" expanded="true" />
++          </folding>
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/Regex.java">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="153">
++          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+           <folding>
+             <element signature="imports" expanded="true" />
+           </folding>
